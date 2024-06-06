@@ -33,4 +33,3 @@ Simulation Results: Data and visualizations from the simulation of the antenna d
 Analysis of Results: In-depth analysis of the simulation results, including performance metrics and optimization considerations.
 Usage
 Feel free to explore the report to understand the design and performance of the Yagi-Uda antenna. The design can be used as a reference for similar antenna projects or further research.
-
