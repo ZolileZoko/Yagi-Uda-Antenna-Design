@@ -1,7 +1,7 @@
 Yagi-Uda Antenna Design Report
 This repository contains a comprehensive design report for a Yagi-Uda antenna. The design project was a collaborative effort by four University of Cape Town students:
 
-Zolile Zoko
+Zolile Zoko 
 Mukundi Mangena
 Tohlang Rakhapu
 Ntsako Phiri
