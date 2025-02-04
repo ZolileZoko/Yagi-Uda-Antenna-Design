@@ -27,7 +27,14 @@ The Yagi-Uda antenna design in this report includes the following elements:
 - **1 Reflector**
 - **1 Driven Element**
 
+## Antenna Design & Performance Analysis
+- **Designed and Simulated a Yagi antenna for 1.3GHz operation, optimizing element lengths and spacings for maximum gain and minimal reflection coefficient.**
+- **Measured Performance using a HyperLog transmitting antenna and analyzed reflection coefficient and gain across frequencies.**
+- **Results: The antenna’s best performance occurred at 1.24GHz (-9.34dB reflection coefficient), which is 5% lower than the design frequency. The peak gain (-28.83dB) was observed at 1.28GHz, within the design bandwidth.**
+- **Validated Performance using the Friis Transmission Equation to calculate received power and compare with expected values, confirming the antenna’s real-world efficiency.**
+
 The antenna is designed to operate at a frequency of 1.3 GHz.
+
 
 ## Contents
 
